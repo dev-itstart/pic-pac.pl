@@ -1,0 +1,33 @@
+.container {
+  min-width: 0px;
+  max-width: 100%;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.main {
+  width: 100%;
+  padding: 0;
+  float: none;
+}
+
+.btn {
+  background: transparent;
+}
+.btn:hover {
+  background: transparent;
+}
+
+.swiper-slide {
+  display: block;
+}
+
+footer {
+  margin-top: 0 !important;
+  background: #761A1B !important;
+}
+
+footer.container-fluid {
+  display: none;
+}
